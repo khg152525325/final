@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">final</string>
+
+    <string name="cityname">臺中市</string>
+    <string name="wcould">風速:</string>
+    <string name="wtmp">溫度:</string>
+    <string name="mo">月</string>
+    <string name="day">日</string>
+    <string name="and">~</string>
+
+    <string name="password">密碼</string>
+    <string name="phone">手機號碼</string>
+    <string name="login_btn">登入</string>
+    <string name="login_txt">登入會員</string>
+    <string name="sigin_btn">註冊</string>
+    <string name="plsingin">沒加入會員？請註冊</string>
+</resources>
